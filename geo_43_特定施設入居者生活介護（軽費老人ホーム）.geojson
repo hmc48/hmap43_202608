@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_43_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウスユーユー【特定施設入居者生活介護（軽費老人ホーム）】熊本県荒尾市下井手字外平1199番12", "url": "https://www.kaigokensaku.mhlw.go.jp/43/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4370400667-00&ServiceCd=332&Type=search", "url2": "http://www9.plala.or.jp/care-yu-yu/" }, "geometry": { "type": "Point", "coordinates": [ 130.462190067489587, 32.99447500429028 ] } }
+]
+}
